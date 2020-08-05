@@ -3,6 +3,8 @@
 At this point, you should have all of the appropiate CLI tools installed.
 [Reference this guide to double check](https://www.ibm.com/cloud/architecture/tutorials/microservices-app-on-kubernetes?task=3).
 
+This guide is an altered version of [IBM's official guide](https://www.ibm.com/cloud/architecture/tutorials/microservices-app-on-kubernetes), tailored for Tech Talent South. 
+
 Here are the steps you need to take in order to utilize your cloud cluster.
 
 ## 1. Install Docker ## 

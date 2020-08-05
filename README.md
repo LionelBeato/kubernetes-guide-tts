@@ -111,7 +111,7 @@ Your app should now be running and can be reached by going to `localhost:3000` i
 
 ## 5. Create a Docker account ##
 
-Docker allows you to push Docker images to a public registry known as DockerHub. Go to hub.docker.com and create an account.
+Docker allows you to push Docker images to a public registry known as DockerHub. Go to [hub.docker.com](https://hub.docker.com) and create an account.
 
 Once your account is created run the following to set your namespace:
 

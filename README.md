@@ -143,7 +143,7 @@ You can then push your image to the public registry:
 
 ```
 
-docker build . -t ${MYNAMESPACE}/${MYPROJECT}:v1.0.0
+docker push ${MYNAMESPACE}/${MYPROJECT}:v1.0.0
 
 ```
 
